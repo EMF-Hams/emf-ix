@@ -1,17 +1,12 @@
-# Welcome to MkDocs
+# Welcome to ECHQ EMF-IX
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Early planning stages
 
-## Commands
+We welcome contributions.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## How to contribute?
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+1. Fork the [repository](https://github.com/JimZAH/emf-ix). 
+2. Make your changes in the dev (or your own) branch.
+3. Pull request
+4. Once the changes are merged to `main` the site is deployed.
