@@ -1,5 +1,7 @@
 # Welcome to ECHQ EMF-IX
 
+[View the site](https://jimzah.github.io/emf-ix/)
+
 Early planning stages
 
 We welcome contributions.
