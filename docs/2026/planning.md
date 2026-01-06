@@ -15,3 +15,9 @@ A few of us network geeks thought we didn't already have enough to do. So natura
 - Fully dual stack with a preference towards IPv6. We have a large public IPv6 block we can sub allocate.
 - Locally available services; grafana, looking glass, ticket systems etc etc.
 - Take care to ensure that we do not interfere with on site EMF network.
+
+## Hardware
+
+Routers: Most likely standard servers running Free/OpenBSD,Linux?
+Switches: TBD
+
